@@ -1,3 +1,3 @@
 # practice1
 javascript
-#Java Script Practice Projects Series 
+Java Script Practice Projects Series 
